@@ -1,0 +1,1 @@
+require 'view_stats/render_tree'
