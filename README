@@ -1,3 +1,4 @@
 Useful for determining information about your views in Rails
 
-
+Example:
+ViewStats::RenderTree.visualize('pages/index')
