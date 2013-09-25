@@ -2,3 +2,10 @@ Useful for determining information about your views in Rails
 
 Example:
 ViewStats::RenderTree.visualize('pages/index')
+
+Output:
+pages/index
+. pages/_form
+. . pages/_some_form_helpers
+. pages/_show
+. . pages/_some_page
